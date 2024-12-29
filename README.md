@@ -35,7 +35,7 @@ Before running the application, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/task-manager-spring-app.git
+   git clone https://github.com/AkashDange03/TaskManagerSpringBoot.git
    cd task-manager-spring-app
    ```
 
@@ -49,7 +49,7 @@ Before running the application, ensure you have the following installed:
    mvn spring-boot:run
    ```
 
-4. Access the API at `http://localhost:8080/tasks`.
+4. Access the API at `http://localhost:8081/tasks`.
 
 ---
 
